@@ -24,10 +24,10 @@
 
 ### **Решение**
 
-![](Standart-Call-center-C4-Context.png)
+![](Standart-Call-center-C4-Context.png)<br/>
 Рис. 1. Диаграмма контекста.
 
-![](Standart-Call-center-C4-Container.png)
+![](Standart-Call-center-C4-Container.png)<br/>
 Рис. 2. Диаграмма контейнеров.
 
 - Системы колл-центров не выполняют прямые обращения к АБС для получения списка ставок и процентов (+R5), вместо этого они получают актуальный список из очереди Kafka (+R6).  
